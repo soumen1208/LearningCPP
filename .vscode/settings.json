@@ -1,0 +1,10 @@
+{
+    "C_Cpp.Squiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "search.useGlobalIgnoreFiles": false,
+    "search.useParentIgnoreFiles": false,
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe"
+}
